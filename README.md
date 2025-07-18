@@ -1,5 +1,5 @@
 
-![App Screenshot](./assests/onlylogo.png)
+![App Screenshot](./assests/1.png)
 # mintro
 
 bla bla bla

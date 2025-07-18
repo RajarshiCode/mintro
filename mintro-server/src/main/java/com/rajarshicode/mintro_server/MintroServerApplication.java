@@ -1,0 +1,13 @@
+package com.rajarshicode.mintro_server;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MintroServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MintroServerApplication.class, args);
+	}
+
+}
